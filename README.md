@@ -25,16 +25,6 @@
 - 📋 **Лог операций** — все действия записываются в удобный лог с возможностью сохранения.
 - 🔐 **Права администратора** — автоматический запрос прав при запуске.
 
-## 📸 Скриншоты
-
-<p align="center">
-  <img src="[image/screenshot.png](https://github.com/MursikMursikovic/ZapretManager/blob/main/screenshot.png)" alt="Главное окно программы" width="800">
-  <br>
-  <em>Главное окно управления</em>
-</p>
-
-## 🛠️ Установка и запуск
-
 ### 📦 Готовый EXE-файл (для обычных пользователей)
 
 1. Скачайте последний релиз со страницы [Releases](https://github.com/MursikMursikovic/ZapretManager/releases).
