@@ -1,5 +1,4 @@
-# ZapretGUI
-# 🚀 Zapret GUI
+# 🚀 ZapretManager
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -10,7 +9,7 @@
 
 ## 📌 О проекте
 
-**Zapret GUI Controller** — это простая и интуитивно понятная программа с графическим интерфейсом для управления утилитой [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube). Больше никаких BAT-файлов и командной строки — всё управление в одном окне.
+**ZapretManager** — это простая и интуитивно понятная программа с графическим интерфейсом для управления утилитой [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube). Больше никаких BAT-файлов и командной строки — всё управление в одном окне.
 
 ### ✨ Возможности
 
