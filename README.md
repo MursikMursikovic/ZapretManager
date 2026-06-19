@@ -4,6 +4,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.7+-yellow)
 
+![ico](https://github.com/MursikMursikovic/ZapretManager/blob/main/gui/icon.ico)
+
 > **Графический интерфейс (GUI) для управления `zapret-discord-youtube`**  
 > Удобная оболочка для запуска, остановки и настройки обхода блокировок Discord, YouTube и Telegram.
 
