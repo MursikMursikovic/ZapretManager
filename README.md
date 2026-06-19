@@ -28,7 +28,7 @@
 ## 📸 Скриншоты
 
 <p align="center">
-  ![alt text](./images/screenshot.png) alt="Главное окно программы" width="800">
+  <img src="image/screenshot.png" alt="Главное окно программы" width="800">
   <br>
   <em>Главное окно управления</em>
 </p>
