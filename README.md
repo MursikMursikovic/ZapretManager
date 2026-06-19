@@ -28,7 +28,7 @@
 ## 📸 Скриншоты
 
 <p align="center">
-  <img src="[screenshots/main_window.png](https://github.com/MursikMursikovic/ZapretManager/blob/main/screenshot.png)" alt="Главное окно программы" width="800">
+  ![alt text](./images/screenshot.png) alt="Главное окно программы" width="800">
   <br>
   <em>Главное окно управления</em>
 </p>
